@@ -28,11 +28,11 @@ The total number of customers analyzed is 4,760.
 * **Inactive:** 393 customers (8.3%)
 
 ### Relationship of the Metrics (Correlation) Among Loyal Customers
-1. R vs F: Strong negative correlation of *-0.096* (compared to R Vs M).<br/>
-**Interpretation:** Customers with high frequency of purchases tend to have lower recency scores. The frequent buyers are also the most engaged with recent purchases.
-2. R vs M: Weak negative correlation of *-0.100*.<br/>
-**Interpretation:** Customers who have spent more money tend to have slightly lower recency scores and are therefore somewhat likely to have made recent purchases. This indicates that the most valuable customers are still actively engaged with the business.
-3. F vs M: Moderate positive correlation of *0.335*.<br/>
+1. **R vs F:** Strong negative correlation of *-0.096* (compared to R Vs M).<br/>
+**Interpretation:** Customers with high frequency of purchases tend to have lower recency scores. The frequent buyers are also the most engaged with recent purchases.<br/>
+2. **R vs M:** Weak negative correlation of *-0.100*.<br/>
+**Interpretation:** Customers who have spent more money tend to have slightly lower recency scores and are therefore somewhat likely to have made recent purchases. This indicates that the most valuable customers are still actively engaged with the business.<br/>
+3. **F vs M:** Moderate positive correlation of *0.335*.<br/>
 **Interpretation:** Customers who purchase frequently tend to spend more money, however, there is a mix of some buying frequently but with smaller spending.
 
 
