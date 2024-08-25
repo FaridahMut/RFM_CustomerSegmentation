@@ -26,6 +26,18 @@ The total number of customers analyzed is 4,760.<br/>
 * **Dormant:** 515 customers (10.8%)
 * **Critical:** 390 customers (8.2%)
 * **Inactive:** 393 customers (8.3%)
+**Distribution of Revenue**
+  
+  RFM Customer Segment  | Total Revenue | Average Order Value | Revenue %
+----------------------- | --------------|---------------------|-------------
+Critical  | 88362.68 | 	16.43	|1.07| 
+Dormant  |176486.28	16.38	|2.13
+Inactive	|42933.310	|13.92	|0.52
+Loyal|	6972427.41	|21.40	|84.22
+Potential Loyal |	998309.74	|17.64	|12.06
+Total	|8278519.42	| NaN | 100.00
+
+Discovered that Loyal Customers contributed to Total Revenue by 84% and had $4.2M more in revenue and $4.25 higher AOV
 
 ### Relationship of the Metrics (Correlation) Among Loyal Customers
 1. **R vs F:** Strong negative correlation of *-0.096* (compared to R Vs M).<br/>
