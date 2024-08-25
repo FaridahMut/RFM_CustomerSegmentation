@@ -21,11 +21,11 @@ It was traditionally done to categorize customers according to 3 characteristics
 ### Customer Segmentation
 The total number of customers analyzed is 4,760.
 **Distribution of Customers:**
-* Loyal: 1,699 customers (35.7%)
-* Potential Loyal: 1,375 customers (28.9%)
-* Dormant: 515 customers (10.8%)
-* Critical: 390 customers (8.2%)
-* Inactive: 393 customers (8.3%)
+* **Loyal:** 1,699 customers (35.7%)
+* **Potential:** Loyal: 1,375 customers (28.9%)
+* **Dormant:** 515 customers (10.8%)
+* **Critical:** 390 customers (8.2%)
+* **Inactive:** 393 customers (8.3%)
 
 ### Relationship of the Metrics (Correlation) Among Loyal Customers
 1. R vs F: Strong negative correlation of *-0.096* (compared to R Vs M).
