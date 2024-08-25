@@ -2,11 +2,11 @@
 RFM Analysis and Customer Segmentation-Online Retail Store
 
 ## Project Overview
-This project involves an RFM (Recency, Frequency, Monetary) analysis for an online retail shop where most customers are wholesalers. The goal is to segment customers based on their purchasing behaviors to provide actionable insights for targeted marketing and customer retention strategies.
+This project involves an RFM (Recency, Frequency, Monetary) analysis for an online retail shop where most customers are wholesalers.<br/> The goal is to segment customers based on purchasing behaviors to provide actionable insights for targeted marketing and customer retention strategies.
 
 ### Question to answer
 1. How are customers distributed across different RFM segments (e.g., Loyal, Potential Loyal, Dormant, Critical, Inactive)?
-2. How do Recency, Frequency, and Monetary values correlate with each other within the the segments?(e.g., loyal customer segment)
+2. How do Recency, Frequency, and Monetary values correlate with each other within the segments?(e.g., loyal customer segment)
 3. What strategies can be implemented to increase customer retention and spending?
    
 ### Brief Background
@@ -28,11 +28,11 @@ The total number of customers analyzed is 4,760.
 * **Inactive:** 393 customers (8.3%)
 
 ### Relationship of the Metrics (Correlation) Among Loyal Customers
-1. R vs F: Strong negative correlation of *-0.096* (compared to R Vs M).
+1. R vs F: Strong negative correlation of *-0.096* (compared to R Vs M).<br/>
 **Interpretation:** Customers with high frequency of purchases tend to have lower recency scores. The frequent buyers are also the most engaged with recent purchases.
-2. R vs M: Weak negative correlation of *-0.100*.
+2. R vs M: Weak negative correlation of *-0.100*.<br/>
 **Interpretation:** Customers who have spent more money tend to have slightly lower recency scores and are therefore somewhat likely to have made recent purchases. This indicates that the most valuable customers are still actively engaged with the business.
-3. F vs M: Moderate positive correlation of *0.335*.
+3. F vs M: Moderate positive correlation of *0.335*.<br/>
 **Interpretation:** Customers who purchase frequently tend to spend more money, however, there is a mix of some buying frequently but with smaller spending.
 
 
