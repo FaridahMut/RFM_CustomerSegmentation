@@ -25,12 +25,12 @@ The total number of customers analyzed is 4,760.<br/>
 * **Potential Loyal:** 1,375 customers (28.9%)
 * **Dormant:** 515 customers (10.8%)
 * **Critical:** 390 customers (8.2%)
-* **Inactive:** 393 customers (8.3%)
-**Distribution of Revenue**
+* **Inactive:** 393 customers (8.3%)<br/>
+**Distribution of Revenue** <br/>
   
   RFM Customer Segment  | Total Revenue | Average Order Value | Revenue %
-| :--- | :---| :---| :---
-Critical  | 88362.68 | 16.43	|1.07| 
+| :--- | :---| :--- | :---
+Critical  | 88362.68 | 16.43	|1.07 
 Dormant  | 176486.28	| 16.38	|2.13
 Inactive	| 42933.310	|13.92	|0.52
 Loyal |	6972427.41	|21.40	|84.22
